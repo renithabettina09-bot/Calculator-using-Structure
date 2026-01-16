@@ -27,4 +27,4 @@ such as addition, subtraction, multiplication, and division.
 - project.c – Source code file
 
 ## Author
-Renitha Bettina
+Renitha Bettina A
